@@ -10,6 +10,23 @@
     width: 100vw;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.wrapper button {
+    /* padding: 10px; */
+    background-color: #04AA6D;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
 }
 
 .accordian {
@@ -17,14 +34,14 @@
 }
 
 .item {
-    background: peachpuff;
+    background: lightgreen;
     margin-bottom: 10px;
     padding: 10px 20px;
     border: 1px solid grey;
     margin: 10px 0px;
 }
 
-.title{
+.title {
     color: black;
     /* background: white; */
     display: flex;
