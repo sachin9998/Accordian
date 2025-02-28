@@ -1,5 +1,8 @@
 # Accordion - React Machine Coding Question
 
+![Screenshot 2025-02-28 at 7 06 16 PM](https://github.com/user-attachments/assets/65e98bde-2f22-430a-ac40-34c9a15f8dfe)
+
+
 **Logic:**
 
 - For Single Selection, Will use `selected` state to track single item.
